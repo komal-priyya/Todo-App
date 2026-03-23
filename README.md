@@ -29,10 +29,15 @@ A modern and user-friendly Todo Application built with React and Tailwind CSS, d
 ----
 
 **🛠️ Tech Stack**
+
 -React (Functional Components + Hooks)
+
 -JavaScript (ES6+)
+
 -Tailwind CSS
+
 -Vite
+
 
 ---
 
@@ -87,6 +92,7 @@ npm run dev
 
 📱 Improve mobile responsiveness
 
+---
 
 💡 Learning Highlights
 
@@ -105,7 +111,7 @@ npm run dev
 -> Styling with Tailwind CSS
 
 
-
+---
 
 
 
