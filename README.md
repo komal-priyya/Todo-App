@@ -32,8 +32,28 @@ This app not only lets you manage tasks but also helps you improve tasks and bre
 
 
 
+🧪 How It Works
+
+📌 localStorage Persistence
+
+Tasks are stored in browser storage
+
+Automatically loaded on app start
+
+Updates whenever tasks change
+
+📌 AI Integration
+
+->Uses LLaMA3 via Ollama
+
+->Sends task as prompt
+
+->Returns improved text or steps
 
 
+
+
+---
 
 **🖼️ Preview**
 
@@ -80,14 +100,17 @@ This app not only lets you manage tasks but also helps you improve tasks and bre
 
 
 
-src/
-
- ├── App.jsx
- 
- ├── index.css
- 
- ├── main.jsx
-
+📂 Project Structure
+Todo-App/
+│── src/
+│   ├── components/
+│   │   └── Todo.jsx
+│   ├── App.js
+│   └── main.jsx
+│
+│── public/
+│── package.json
+│── README.md
 ---
 
 
